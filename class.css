@@ -1,0 +1,117 @@
+
+            hr{
+                width: 30%;
+                margin-left: 0;
+            } 
+
+            .ctaFeatures{
+                width: 100%;
+                font-size: 14px;
+            }
+
+            .contentDescription{
+                padding-top: 50px;
+            }
+
+            .iconspace{
+                padding-right: 10px;
+                color: rgb(175, 57, 57);
+            }
+
+            .tags{
+                color: black;
+            }
+
+            .tags:hover{
+                text-decoration: none;
+            }
+            .navbackground{
+                background-color:orange !important;
+            }
+            .navpadding{
+                padding-left:125px;
+                font-weight:750;
+            }
+
+            .vehicleFeature{
+                background-color: #e4e4e4;
+                padding: 20px 0px;
+                text-align: center;
+                vertical-align: middle;
+            }
+
+            .vehicleFeatureMain{
+                background-color: orange;
+                padding: 20px;
+                vertical-align: middle;
+            }
+
+            .descriptionlist{
+                background-color: #e4e4e4;
+                text-align: left;
+            }
+            .leftSideContent{
+                margin-top: 20px;
+            }
+
+            .profilePic{
+                width: 30%;
+                border-radius: 50%;
+            }
+
+            .jumpToASection{
+                width: 30%;
+            }
+
+            .barcounterBG{
+                border-radius: 25px;
+                background-color: #e3e3e3; 
+                width: 80%; 
+                height: 5px;
+            }
+            
+            .skillLevel{
+                float: right;
+                width: 60px;
+            }
+
+            .barcounterLevel{
+                border-radius: 25px;
+                background-color: orange;
+                height: 5px;
+            }
+                .barcounterLevel.skillLevel1{
+                    width: 80%;
+                }
+                .barcounterLevel.skillLevel2{
+                    width: 70%;
+                }
+                .barcounterLevel.skillLevel3{
+                    width: 60%;
+                }
+                .barcounterLevel.skillLevel4{
+                    width: 80%;
+                }
+                .barcounterLevel.skillLevel5{
+                    width: 60%;
+                }
+                .barcounterLevel.skillLevel6{
+                    width: 80%;
+                }
+                .barcounterLevel.skillLevel7{
+                    width: 60%;
+                }
+            .pricebackground{
+                background-color: #e4e4e4;
+                padding: 18px 0px;
+                text-align: center;
+                vertical-align: middle;
+            }
+            .image { 
+                border:1px solid #8d9198;
+            }
+            .buttonstyle{
+                width:80%;
+                text-align: left; 
+                font-size: 14px;
+            }
